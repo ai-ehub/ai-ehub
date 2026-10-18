@@ -1,16 +1,37 @@
 {
-  "name": "ai-ehub-mentors",
+  "name": "ai-ehub",
   "owner": {
     "name": "AI EHub"
   },
   "metadata": {
-    "description": "AI EHub tools for mentors only."
+    "description": "AI EHub mentoring tools for small businesses: four topic areas for mentors and mentees."
   },
   "plugins": [
     {
-      "name": "mentor-tools",
-      "source": "./ai-ehub-mentors/plugins/mentor-tools",
-      "description": "AI EHub tools for mentors only: Session Planner prepares first and follow-on mentoring sessions and recommends AI EHub tools for mentees.",
+      "name": "starting-and-evaluating-a-business",
+      "source": "./ai-ehub/plugins/starting-and-evaluating-a-business",
+      "description": "AI EHub mentoring tools for starting and evaluating a business: Startup Ideas, Startup Validator, Business Stress Test, and Industry Insight.",
+      "version": "0.1.0",
+      "strict": false
+    },
+    {
+      "name": "pricing-and-finance",
+      "source": "./ai-ehub/plugins/pricing-and-finance",
+      "description": "AI EHub mentoring tools for pricing and finance: Price Calculator, Financial Strategy, Lender Navigator, Deal Advisor, and Grant Writing.",
+      "version": "0.1.0",
+      "strict": false
+    },
+    {
+      "name": "marketing-and-operations",
+      "source": "./ai-ehub/plugins/marketing-and-operations",
+      "description": "AI EHub mentoring tools for marketing and operations: Marketing Strategist, Website Growth, and Lean Operations.",
+      "version": "0.1.0",
+      "strict": false
+    },
+    {
+      "name": "clarity-and-decision",
+      "source": "./ai-ehub/plugins/clarity-and-decision",
+      "description": "AI EHub mentoring tools for getting clear and deciding: Decision Coach, Business Mentor, GUIDE Mentoring, and Mentee Self Guide.",
       "version": "0.1.0",
       "strict": false
     }
