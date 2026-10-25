@@ -9,7 +9,7 @@ Each tool is a skill: ask for it by name in any chat (for example, "Use Decision
 | **Decision Coach** | Choices, tradeoffs & decisions | "Use Decision Coach. Help me choose between [option A] and [option B], given these priorities and constraints: [details]." |
 | **Business Mentor** | Cross-functional business help | "Use Business Mentor. I have a problem that spans more than one area of my business. Help me diagnose it and identify practical next steps: [details]." |
 | **GUIDE Mentoring** | Structured mentoring guidance | "Use GUIDE Mentoring. Help me work through this business challenge using a guided mentoring conversation: [challenge]." |
-| **Mentee Self Guide** | Mentee prep & self-guidance | "Use Mentee Self Guide. Help me prepare for my next SCORE mentoring session. I want to make progress on [goal]." |
+| **Mentee Self Guide** | Mentee prep & self-guidance | "Use Mentee Self Guide. Help me prepare for my next mentoring session. I want to make progress on [goal]." |
 
 ## Built-in rules
 

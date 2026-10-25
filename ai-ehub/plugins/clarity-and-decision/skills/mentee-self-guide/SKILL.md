@@ -3,7 +3,7 @@ name: mentee-self-guide
 description: >
   Mentee Self Guide - AI EHub. This skill should be used when a mentee wants a light, structured
   thinking partner on their own, often between mentoring sessions: "help me prepare for my next
-  SCORE session", "I'm stuck", "help me think this through", "what should I bring to my mentor",
+  mentoring session", "I'm stuck", "help me think this through", "what should I bring to my mentor",
   "I'm not sure what my goal is", or "help me figure out my next step". Uses short reflective
   prompts, helps the mentee name their own options first, and ends with a few owned next actions
   and what to bring to the mentor. Not for analytic option comparison (Decision Coach) or the full
